@@ -1,22 +1,22 @@
 <!--
-Desenvolvido Por: mLabs
+Desenvolvido por: E5+
 -->
 <?php
-$url = "http://m-l-a-b-s.com/";
-$title = "mLabs";
+$url = "http://e-5-m-a-i-s.com/";
+$title = "E5+";
 
 $var = array(
         "1" => array(
-                  "titulo" => "mLabs",
-                  "image" => "http://gph.is/2m6xCjt"
+                  "titulo" => "Facebook",
+                  "image" => "http://gph.is/1hX1Jwr"
                   ),
         "2" => array(
-                  "titulo" => "mLabs",
-                  "image" => "http://gph.is/1pptU1s"
+                  "titulo" => "Instagram",
+                  "image" => "http://gph.is/1Orq2G6"
                   ),
         "3" => array(
-                  "titulo" => "mLabs",
-                  "image" => "http://gph.is/NYwUyC"
+                  "titulo" => "LinkedIn",
+                  "image" => "http://gph.is/1Orq2G6"
                   ),
         );
 
